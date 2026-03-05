@@ -1,0 +1,17 @@
+feature_name,lines_changed,files_changed,complexity_score,developer_experience,past_bug_count,commit_frequency,failed
+Login API,120,4,15,2,3,8,1
+Search Feature,45,2,6,4,0,3,0
+Payment Module,200,6,18,1,4,10,1
+Profile Update,30,1,4,3,0,2,0
+Notification System,150,5,14,2,2,6,1
+Analytics Dashboard,90,3,10,3,1,5,0
+Cart System,170,4,16,2,3,9,1
+Settings Page,25,1,3,5,0,1,0
+Order Processing,210,7,20,1,5,11,1
+Wishlist Feature,60,2,7,4,0,3,0
+Recommendation Engine,180,6,17,2,4,8,1
+Comment System,40,2,5,3,1,3,0
+Review Module,55,2,6,3,0,4,0
+Inventory Manager,160,5,15,2,3,7,1
+Push Notifications,130,4,12,2,2,6,1
+User Activity Feed,70,3,8,3,1,4,0
