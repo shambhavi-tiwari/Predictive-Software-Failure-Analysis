@@ -1,5 +1,22 @@
+# Python
+.venv/
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
+*.pyo
+*.pyd
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
 .DS_Store
-venv/
+.vscode/
+
+# ML artifacts (optional – recommended)
+ml/model.pkl
+ml/*.log

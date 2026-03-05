@@ -6,3 +6,7 @@ seaborn
 flask
 joblib
 jupyter
+fastapi
+uvicorn
+python-multipart
+requests
